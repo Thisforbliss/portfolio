@@ -30,7 +30,7 @@ class Landing extends Component {
 
 
                          {/* Medium */}
-                         <a href="https://medium.com/@malcolmdelover" target="_blank">
+                         <a href="https://medium.com/@malcolmdelover" target="_blank" rel="noopener noreferrer" >
                             <i className= "fa fa-medium" rel= "noopener noreferer" aria-hidden="true"/>
                         </a>
 

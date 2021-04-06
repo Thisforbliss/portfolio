@@ -18,7 +18,7 @@ class Project extends Component {
                 Real Estate application showing relevant data for buyers and sellers via searchable listings and forms to capture user data for storing in Rails API.
                 </CardText>
                 <CardActions border>
-                <Button colored > <a href= "https://github.com/Thisforbliss/react-real-estate-app-frontend" target="_blank"> GITHUB </a></Button>
+                <Button colored > <a href= "https://github.com/Thisforbliss/react-real-estate-app-frontend" target="_blank" rel="noopener noreferrer"> GITHUB </a></Button>
                 <Button colored>LIVE DEMO</Button>
                
                 </CardActions>
@@ -36,8 +36,8 @@ class Project extends Component {
                 Devised blogging application coupled with filters to find specific blogs by title.
                 </CardText>
                 <CardActions border>
-                <Button colored > <a href= "https://github.com/Thisforbliss/javaProject" target="_blank"> GITHUB Frontend </a></Button>
-                <Button colored > <a href= "https://github.com/Thisforbliss/jsBackend" target="_blank"> GITHUB Backend </a></Button>
+                <Button colored > <a href= "https://github.com/Thisforbliss/javaProject" target="_blank" rel="noopener noreferrer" > GITHUB Frontend </a></Button>
+                <Button colored > <a href= "https://github.com/Thisforbliss/jsBackend" target="_blank"rel="noopener noreferrer"  > GITHUB Backend </a></Button>
                 <Button colored>LIVE DEMO</Button>
                
                 </CardActions>
@@ -54,7 +54,7 @@ class Project extends Component {
                 Generated application for realtors to show listings with filters to properties of a specific price range for buyers to view.
                 </CardText>
                 <CardActions border>
-                <Button colored > <a href= "https://github.com/Thisforbliss/cityspots_test" target="_blank"> GITHUB </a></Button>
+                <Button colored > <a href= "https://github.com/Thisforbliss/cityspots_test" target="_blank" rel="noopener noreferrer" > GITHUB </a></Button>
                 <Button colored>LIVE DEMO</Button>
                
                 </CardActions>
