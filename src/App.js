@@ -3,7 +3,7 @@ import {Layout, Header, Navigation, Drawer, Content} from 'react-mdl'
 import './App.css';
 import Main from './components/main';
 import {Link} from 'react-router-dom'
-import resume from './components/Resume.docx'
+import resume from './components/Malcolm_Leake_Resume_2021.pdf'
 
 
 function App() {

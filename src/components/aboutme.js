@@ -35,7 +35,7 @@ class About extends Component {
                     <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
                     
-                             echelon1089@gmail.com</ListItemContent>
+                            Malcolm.D.Leake@gmail.com</ListItemContent>
                     </ListItem>
              
                     
