@@ -40,7 +40,7 @@ class Project extends Component {
                 <CardActions border>
                 <Button colored > <a href= "https://github.com/Thisforbliss/javaProject" target="_blank" rel="noopener noreferrer" > GITHUB Frontend </a></Button>
                 <Button colored > <a href= "https://github.com/Thisforbliss/jsBackend" target="_blank"rel="noopener noreferrer"  > GITHUB Backend </a></Button>
-                <Button colored>LIVE DEMO</Button>
+                {/* <Button colored>LIVE DEMO</Button> */}
                
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
@@ -57,7 +57,7 @@ class Project extends Component {
                 </CardText>
                 <CardActions border>
                 <Button colored > <a href= "https://github.com/Thisforbliss/cityspots_test" target="_blank" rel="noopener noreferrer" > GITHUB </a></Button>
-                <Button colored>LIVE DEMO</Button>
+                {/* <Button colored>LIVE DEMO</Button> */}
                
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
