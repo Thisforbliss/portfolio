@@ -14,13 +14,13 @@ class Landing extends Component {
                     />
                     <div className='banner-text'>
                         <h1>Full Stack Web Devloper</h1>
-                        <h2>Your Favorite Engineer Malcolm Leake</h2>
+                        <h2>Your Favorite Full Stack Engineer Malcolm Leake</h2>
                         <hr/>
                         <p> | Rails | JavaScript | React | Redux | SQL | Ruby | HTML | NodeJs |</p>
-
-                        <iframe title="ad" width="860" height="560" src="https://www.youtube.com/watch?v=HbcXE9gRHeg" frameBorder="0" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-                    
+                    <div className= 'elevator-pitch'> 
+                        <iframe title="ad" width="600" height="280" src="https://www.youtube.com/embed/HbcXE9gRHeg" frameBorder="0" 
+                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                    </div>
                     <div className="social-links">
 
                         {/* Linkedin */}

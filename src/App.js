@@ -11,7 +11,7 @@ function App() {
    <div>
     <div className="demo-big-content">
     <Layout>
-        <Header className="header-color" title="Title" scroll>
+        <Header className="header-color" title="Drop Down" scroll>
             <Navigation>
                 
                 <Link to="/aboutme">About Me</Link>
@@ -20,7 +20,7 @@ function App() {
                 <Link to="/">Home</Link>
             </Navigation>
         </Header>
-        <Drawer title="Title">
+        <Drawer title="My Treasure">
             <Navigation>
       
                 <Link to="/aboutme">About Me</Link>
