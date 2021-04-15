@@ -18,8 +18,10 @@ class Project extends Component {
                 Real Estate application showing relevant data for buyers and sellers via searchable listings and forms to capture user data for storing in Rails API.
                 </CardText>
                 <CardActions border>
-                <Button colored > <a href= "https://github.com/Thisforbliss/react-real-estate-app-frontend" target="_blank" rel="noopener noreferrer"> GITHUB </a></Button>
-                <Button colored>LIVE DEMO</Button>
+                <Button colored > <a href= "https://github.com/Thisforbliss/react-real-estate-app-frontend" target="_blank" rel="noopener noreferrer"> GITHUB Frontend </a></Button>
+                <Button colored > <a href= "https://github.com/Thisforbliss/react-real-estate-app-backend" target="_blank" rel="noopener noreferrer"> GITHUB Backend</a></Button>
+
+                <Button colored> <a href= "https://react-real-estate-app-frontend.vercel.app/" target="_blank" rel="noopener noreferrer"> LIVE Demo Without Backend Live</a> </Button>
                
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
