@@ -18,10 +18,7 @@ class Landing extends Component {
                         <hr/>
                         <p> | Rails | JavaScript | React | Redux | SQL | Ruby | HTML | NodeJs |</p>
 
-                    <div className= 'elevator-pitch'> 
-                        <iframe title="ad" width="500" height="260" src="https://www.youtube.com/embed/HbcXE9gRHeg" frameBorder="0" 
-                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-                    </div>
+                  
 
                     <div className="social-links">
 
@@ -40,8 +37,13 @@ class Landing extends Component {
                          <a href="https://medium.com/@malcolmdelover" target="_blank" rel="noopener noreferrer" >
                             <i className= "fa fa-medium" rel= "noopener noreferer" aria-hidden="true"/>
                         </a>
-
                     </div> 
+
+                    <div className= 'elevator-pitch'> 
+                        <iframe title="ad" width="500" height="260" src="https://www.youtube.com/embed/HbcXE9gRHeg" frameBorder="0" 
+                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                    </div>
+
                     </div>
                 </Grid>
             </div>
