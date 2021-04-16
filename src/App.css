@@ -17,6 +17,22 @@
   height: 100%;
 }
 
+
+.parallax {
+  /* The image used */
+  background: #de6161;
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 .avatar-img {
   height: 150px;
   padding-top: 1em;
