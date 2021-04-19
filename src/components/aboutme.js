@@ -15,7 +15,15 @@ class About extends Component {
                     style= {{height: '250px'}} 
                     />
 
-                    <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>Full-Stack Web Developer from FlatIron School proficient in Rails, Ruby, Sinatra, JavaScript, Redux, JSON API, HTML, MySQL, Bootstrap, RSpec and React. My portfolio projects showcase my passion and expertise in software engineering primarily in Frontend and Backend Development. Interested in various companies within real-estate, social, or financial roles. Open to contracting, preferably a fulltime position, and willing to relocate if needed.</p>
+                    <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>
+                     A Full-Stack Web Developer from FlatIron School proficient in Rails,
+                     Ruby, Sinatra, JavaScript, Redux, JSON API, HTML, MySQL, Bootstrap,
+                      RSpec and React. My portfolio projects showcase my passion and expertise 
+                      in software engineering primarily in Frontend and Backend Development.
+                     Interested in various companies within real-estate, social, or financial 
+                     roles. Open to contracting, preferably a fulltime position, and willing to 
+                     relocate if needed.</p>
+                     
                     
                     </Cell>
                     <Cell col={6}>
